@@ -1,4 +1,4 @@
-# npm-package-demo
+# @elanandkumar/npm-package-demo
 
 ## 1.0.1
 

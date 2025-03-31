@@ -1,3 +1,3 @@
-**npm-package-demo**
+**@elanandkumar/npm-package-demo**
 
 A demo package for npm
