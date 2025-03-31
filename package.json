@@ -1,0 +1,24 @@
+{
+  "name": "npm-package-demo",
+  "version": "1.0.0",
+  "description": "A demo package for npm",
+  "keywords": [
+    "demo",
+    "typescript"
+  ],
+  "author": "Anand Kumar <elanandkumar@gmail.com",
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "ci": "npm run build",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "typescript": "^5.6.2"
+  }
+}
